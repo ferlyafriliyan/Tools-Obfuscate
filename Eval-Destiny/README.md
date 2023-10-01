@@ -32,9 +32,9 @@ print("Mukalu Kaya", Text)
 ```
 
 ### *Prosses Encryptions - Obfuscated File :*
-![img](https://raw.githubusercontent.com/ferlyafriliyan/Py3-Variable/main/assets/Screenshot_20230915_040337_Termux.jpg)
+![img](https://raw.githubusercontent.com/ferlyafriliyan/Tools-Obfuscate/main/Eval-Destiny/assets/input.jpg)
 
 ### *Gambaran Hasil Encryptions - Obfuscated File :*
-![img](https://raw.githubusercontent.com/ferlyafriliyan/Py3-Variable/main/assets/Screenshot_20230915_040323_Termux.jpg)
-
+![img](
+https://raw.githubusercontent.com/ferlyafriliyan/Tools-Obfuscate/main/Eval-Destiny/assets/destiny.jpg)
   

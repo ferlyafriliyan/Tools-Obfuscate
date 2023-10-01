@@ -29,8 +29,8 @@ print("Mukalu Kaya", Text)
 ```
 
 ### *Prosses Encryptions - Obfuscated File :*
-![img](https://raw.githubusercontent.com/ferlyafriliyan/Tools-Obfuscate/main/enc_marshal/assets/input.jpg)
+![img](https://raw.githubusercontent.com/ferlyafriliyan/Tools-Obfuscate/main/Berserker/assets/input.jpg)
 
 ### *Gambaran Hasil Encryptions - Obfuscated File :*
-![img](https://raw.githubusercontent.com/ferlyafriliyan/Tools-Obfuscate/main/enc_marshal/assets/marshal.jpg)
+![img](https://raw.githubusercontent.com/ferlyafriliyan/Tools-Obfuscate/main/Berserker/assets/berserker.jpg)
   
